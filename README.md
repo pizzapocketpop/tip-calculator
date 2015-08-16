@@ -2,7 +2,7 @@
 
 This is an iOS app for calculating one's tip and total on any given bill amount, based on a tip of 18%, 20% or 22%. The app also lets you see the total amount split between 2, 3 and 4 friends.  
 
-**Time spent**: 4 hours spent for basic app + 5 hours adding background gradient, redesigned layout, and adding functionality to see total amount split between multiple people.  
+**Time spent**: 4 hours spent for basic app + 5 hours adding background gradient, redesigned layout, app icon, launch screen and adding functionality to see total amount split between multiple people.  
 
 ##Completed user stories:
 
